@@ -69,23 +69,23 @@ Currently picking up: TypeScript, Next.js, and getting comfortable with system d
 
 - Rebuilding the chat app with a proper Node + Socket.io backend and user authentication
 - A full-stack project I'm not ready to announce yet (soon!)
-- Sharpening DSA fundamentals for placement season
+- Sharpening DSA fundamentals for placement season — solving problems regularly on [LeetCode](https://leetcode.com/u/LqkmS3ywgd/)
 
 ---
 
 ### 📫 Let's talk
 
-I'm actively looking for **full-stack developer internships and entry-level roles** starting [your availability date]. If you're hiring, collaborating, or just want to talk shop — I'd love to hear from you.
+I'm actively looking for **full-stack developer internships and entry-level roles** starting after my graduation in 2026. If you're hiring, collaborating, or just want to talk shop — I'd love to hear from you.
 
 <p>
-<a href="mailto:your.email@example.com">
+<a href="mailto:cathygeorge2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-handle">
+<a href="https://www.linkedin.com/in/cathy-george-3693b8290/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+<a href="https://leetcode.com/u/LqkmS3ywgd/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
