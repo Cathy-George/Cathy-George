@@ -33,16 +33,6 @@ Currently picking up: TypeScript, Next.js, and getting comfortable with system d
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/Cathy-George/Real-time-chat-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cathy-George&repo=Real-time-chat-application&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Cathy-George/INTERACTIVE-QUIZ-APPLICATION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cathy-George&repo=INTERACTIVE-QUIZ-APPLICATION&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Cathy-George/HTML-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cathy-George&repo=HTML-portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
 🔹 **[Real-time Chat App](https://github.com/Cathy-George/Real-time-chat-application)** — A live chat application with multi-user support built using JavaScript and WebSocket-style real-time messaging. Handles concurrent users without the conversation falling apart.
 
 🔹 **[Interactive Quiz Application](https://github.com/Cathy-George/INTERACTIVE-QUIZ-APPLICATION)** — A dynamic quiz platform with timed questions, scoring logic, and instant feedback. Built to test how clean I could keep state management in vanilla JS.
@@ -51,13 +41,9 @@ Currently picking up: TypeScript, Next.js, and getting comfortable with system d
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-
-![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cathy-George&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cathy-George&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cathy-George&theme=tokyonight&hide_border=true)
 
@@ -78,16 +64,18 @@ Currently picking up: TypeScript, Next.js, and getting comfortable with system d
 I'm actively looking for **full-stack developer internships and entry-level roles** starting after my graduation in 2026. If you're hiring, collaborating, or just want to talk shop — I'd love to hear from you.
 
 <p>
-<a href="mailto:cathygeorge2005@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=cathygeorge2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/cathy-george-3693b8290/">
+<a href="https://www.linkedin.com/in/cathy-george-3693b8290/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/LqkmS3ywgd/">
+<a href="https://leetcode.com/u/LqkmS3ywgd/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
+
+📧 You can also reach me directly at **cathygeorge2005@gmail.com**
 
 ---
 
