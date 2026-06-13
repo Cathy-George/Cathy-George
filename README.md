@@ -34,7 +34,7 @@ Currently picking up: TypeScript, Next.js, and getting comfortable with system d
 ---
 
 ### 🚀 Featured Projects
-🔹 **CareerPath – AI-Driven Career Guidance Platform** — A full-stack AI platform that analyzes user skills, recommends personalized learning paths, generates resumes, and provides intelligent career guidance using multiple LLMs including Groq, Gemini, and Cerebras.
+🔹 **[CareerPath – AI-Driven Career Guidance Platform](https://github.com/Amayasree-R/careertrackerSTABLE)** — A full-stack AI platform that analyzes user skills, recommends personalized learning paths, generates resumes, and provides intelligent career guidance using multiple LLMs including Groq, Gemini, and Cerebras.
 
 🔹 **[Real-time Chat App](https://github.com/Cathy-George/Real-time-chat-application)** — A live chat application with multi-user support built using JavaScript and WebSocket-style real-time messaging. Handles concurrent users without the conversation falling apart.
 
